@@ -1,0 +1,6 @@
+#External Dependencies
+#Sun Feb 13 12:22:21 PST 2011
+/home/dontask/IdeaProjects/helloCasbah/lib_managed/scala_2.8.1/compile/casbah-core_2.8.1-2.0.2.jar=src/main/scala/mongoConn.scala
+/home/dontask/IdeaProjects/helloCasbah/lib/casbah-core_2.8.1-2.0.2.jar=src/main/scala/mongoConn.scala
+/usr/lib/jvm/java-6-sun-1.6.0.22/jre/lib/rt.jar=src/main/scala/mongoConn.scala
+/home/dontask/IdeaProjects/helloCasbah/project/boot/scala-2.8.1/lib/scala-library.jar=src/main/scala/mongoConn.scala
